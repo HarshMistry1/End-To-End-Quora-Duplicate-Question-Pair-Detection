@@ -1,0 +1,5 @@
+distance
+scikit-learn
+nltk
+fuzzywuzzy
+streamlit
